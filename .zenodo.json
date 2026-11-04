@@ -1,0 +1,15 @@
+{
+  "title": "robust-fair-ev-siting: code for 'Efficient plans dodge, fair plans hedge: forecast uncertainty and the robust fairness premium in electric vehicle charging siting'",
+  "description": "Code to reproduce the forecasts, zone-wise conformal radii, robust and fair charging-siting models, permutation tests, feeder-constrained fairness ceilings and figures of the accompanying article. No data are included; the public UrbanEV and CHARGED datasets are downloaded from their original repositories by scripts/download_data.sh.",
+  "upload_type": "software",
+  "license": "MIT",
+  "creators": [
+    {"name": "Guo, Yao", "affiliation": "School of Economics and Management, Jiangmen Polytechnic", "orcid": "0009-0007-6700-5905"},
+    {"name": "Peng, Penggui", "affiliation": "School of Information Engineering, Jiangmen Polytechnic", "orcid": "0009-0008-5682-4523"}
+  ],
+  "keywords": ["electric vehicle charging", "facility location", "robust optimization", "conformal prediction", "fairness"],
+  "related_identifiers": [
+    {"identifier": "https://github.com/IntelligentSystemsLab/UrbanEV", "relation": "requires", "scheme": "url"},
+    {"identifier": "https://github.com/IntelligentSystemsLab/CHARGED", "relation": "requires", "scheme": "url"}
+  ]
+}

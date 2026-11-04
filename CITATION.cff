@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the software and the accompanying article."
+title: "robust-fair-ev-siting: code for 'Efficient plans dodge, fair plans hedge'"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/Grace0340/robust-fair-ev-siting"
+authors:
+  - family-names: "Guo"
+    given-names: "Yao"
+    affiliation: "School of Economics and Management, Jiangmen Polytechnic"
+    orcid: "https://orcid.org/0009-0007-6700-5905"
+    email: "guoyao@jmpt.edu.cn"
+  - family-names: "Peng"
+    given-names: "Penggui"
+    affiliation: "School of Information Engineering, Jiangmen Polytechnic"
+    orcid: "https://orcid.org/0009-0008-5682-4523"
+keywords:
+  - electric vehicle charging
+  - facility location
+  - robust optimization
+  - conformal prediction
+  - fairness
+preferred-citation:
+  type: article
+  title: "Efficient plans dodge, fair plans hedge: forecast uncertainty and the robust fairness premium in electric vehicle charging siting"
+  authors:
+    - family-names: "Guo"
+      given-names: "Yao"
+    - family-names: "Peng"
+      given-names: "Penggui"
+  journal: "Applied Energy"
+  year: 2026
+  notes: "Under review"

@@ -1,0 +1,10 @@
+numpy==1.26.4
+pandas==2.3.3
+scipy==1.17.1
+statsmodels==0.14.6
+scikit-learn==1.7.2
+pandapower==3.5.6
+matplotlib==3.9.0
+# PyTorch is only needed for the forecasting stage; install the build that matches your CUDA version
+# from https://pytorch.org (the experiments used torch 2.13.0 with CUDA 13.0).
+torch>=2.1
